@@ -6,25 +6,23 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 # Índice
 
-* [Distribuição de celulares](#projeto-template)
-* [ Validação dos Professores-Projeto](#badges)
-* .[Pesquisas Relacionadas ao projeto](#equipe)
-* [Montagem de uma emporesa de Distribuição de celulares](#objetivo-do-projeto)
+* [Objetivo fazer imersão no conteúdo-Vídeo aulas](#projeto-template)
+* [ Atividades Extra-Curriculares](#badges)
+* .[Apoio nas atividades relacionadas ao projeto](#equipe)
 * [Slides e apresentação das Sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
-* [Cronograma das Sprints](#Cronograma-das-Sprints)
+* [Cronograma das Sprints-Individual](#Cronograma-das-Sprints)
 * [Desenvolvimento do Market Share](#Backlog-do-produto)
-* [Swot Individual e da empresa](#Burndown)
-* [Competências desenvolvidas](#competências-desenvolvidas)
+* [Swot Individual usando técnicas aprendidas em aulas](#Burndown)
 * [Pesquisas Bibliográficas](#autores)
 
-# Desenvolvimento de Distribuidora de eletrônicos (API) 
-Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
-Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
-Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints
+# Desenvolvimento em Laborátorio de Informática (API) 
+O objetivo desta sprint é discutir como os alunos se tornam agentes colaborativos do processo de ensino-aprendizagem, bem como se tornar um protagonista da sua educação, através de atividades extra- curriculares.
+E o envolvimento de projetos acadêmicos como a Sprint do 1 semestre do projeto.
+
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | dd/mm/aaaa | concluido| [Ver Relatório](https://outlook.office365.com/mail/sentitems/id/AAQkADVhYjc1Mjc5LWM3NDUtNDgwYi1hNjBjLTI0YTMyOGRkZThmMQAQAPbFzXPmNU1HtISBKC8mrSY%3D/sxs/AAMkADVhYjc1Mjc5LWM3NDUtNDgwYi1hNjBjLTI0YTMyOGRkZThmMQBGAAAAAAAZJkRYGX3%2BTKP0vrekOizOBwA9aGM%2Bs9wAQZObalYGXIQkAAAAAAEJAAA9aGM%2Bs9wAQZObalYGXIQkAAERtzcwAAABEgAQAOFUNy7rFZBCjEf2xBASHwY%3D) | 
+|Montagem do grupo no Teams | 16/08/2024 | concluido|
 |01 | dd/mm/aaaa | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |02|  dd/mm/aaaa| em progresso |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |03| dd/mm/aaaa | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
