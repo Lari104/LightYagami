@@ -8,7 +8,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 * [Distribuição de celulares](#projeto-template)
 * [Micro Certificações](#badges)
-*  .[Larissa](#equipe)
+* .[Larissa](#equipe)
 * [Distribuir e vender celulares para as classes D e E](#objetivo-do-projeto)
 * [uncionalidades e registros (vídeos e apresnetações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
 * [Cronograma das Sprints](#Cronograma-das-Sprints)
