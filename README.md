@@ -7,15 +7,15 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 # Índice
 
 * [Distribuição de celulares](#projeto-template)
-* [Micro Certificações- Validação dos Professores](#badges)
-* .[Larissa](#equipe)
-* [Distribuir e vender celulares para as classes D e E](#objetivo-do-projeto)
-* [uncionalidades e registros (vídeos e apresnetações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
+* [ Validação dos Professores-Projeto](#badges)
+* .[Pesquisas Relacionadas ao projeto](#equipe)
+* [Montagem de uma emporesa de Distribuição de celulares](#objetivo-do-projeto)
+* [Slides e apresentação das Sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
 * [Cronograma das Sprints](#Cronograma-das-Sprints)
-* [Backlog do produto](#Backlog-do-produto)
-* [Burndown](#Burndown)
+* [Desenvolvimento do Market Share](#Backlog-do-produto)
+* [Swot Individual e da empresa](#Burndown)
 * [Competências desenvolvidas](#competências-desenvolvidas)
-* [Autores](#autores)
+* [Pesquisas Bibliográficas](#autores)
 
 # Projeto (API) 
 Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
