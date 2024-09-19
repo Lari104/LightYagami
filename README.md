@@ -1,13 +1,13 @@
-# Aprendizado por Projeto Integrado (API) - Template
+# Gestão de Produção Industrial (GPI) - Noturno
 
 Template para os projetos do curso de graduação em Gestão da Produção Industrial, ensinando na utilização do repositório digital "GitHub". 
 
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
+Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos do grupo e de cada aluno.
 
 # Índice
 
 * [Distribuição de celulares](#projeto-template)
-* [Micro Certificações](#badges)
+* [Micro Certificações- Validação dos Professores](#badges)
 * .[Larissa](#equipe)
 * [Distribuir e vender celulares para as classes D e E](#objetivo-do-projeto)
 * [uncionalidades e registros (vídeos e apresnetações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
