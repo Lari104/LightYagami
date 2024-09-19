@@ -24,7 +24,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | dd/mm/aaaa | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|Kick Off | dd/mm/aaaa | concluido| [Ver Relatório](https://outlook.office365.com/mail/sentitems/id/AAQkADVhYjc1Mjc5LWM3NDUtNDgwYi1hNjBjLTI0YTMyOGRkZThmMQAQAPbFzXPmNU1HtISBKC8mrSY%3D/sxs/AAMkADVhYjc1Mjc5LWM3NDUtNDgwYi1hNjBjLTI0YTMyOGRkZThmMQBGAAAAAAAZJkRYGX3%2BTKP0vrekOizOBwA9aGM%2Bs9wAQZObalYGXIQkAAAAAAEJAAA9aGM%2Bs9wAQZObalYGXIQkAAERtzcwAAABEgAQAOFUNy7rFZBCjEf2xBASHwY%3D) | 
 |01 | dd/mm/aaaa | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |02|  dd/mm/aaaa| em progresso |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |03| dd/mm/aaaa | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
