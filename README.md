@@ -38,8 +38,8 @@ Futuramente
 </p>
 
 
-# Equipe
-![Equipe](https://www.lancamentosnetflix.com.br/wp-content/uploads/2020/07/serie-suits.jpg)
+# Auter Ego
+![Equipe](https://cdn.sanity.io/images/yvyhc5zz/production/0b8a217b014594ae074652f8ce638465c20fc5cd-1920x1250.jpg?w=1888&fit=crop)
 
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
