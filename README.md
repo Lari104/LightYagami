@@ -7,6 +7,8 @@ Baseando-se na, Autonomia, Colaboração e Entrega de Resultados do estudante Í
 * [Objetivo fazer imersão no conteúdo-Vídeo aulas](#projeto-template)
 * [ Atividades Extra-Curriculares](#badges)
 * .[Apoio nas atividades em sala](#equipe)
+* ![Imagem do WhatsApp de 2024-09-19 à(s) 21 19 21_86656bbc](https://github.com/user-attachments/assets/43d01ce2-3095-4eb0-b5e6-8fdce34167d1)
+
 
 # Desenvolvimento em Laborátorio de Informática (API) 
 O objetivo desta sprint é discutir como os alunos se tornam agentes colaborativos do processo de ensino-aprendizagem, bem como se tornar um protagonista da sua educação, através de atividades extra- curriculares.
