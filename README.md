@@ -18,6 +18,9 @@ E o envolvimento de projetos acadêmicos como a Sprint do 1 semestre do projeto.
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Montagem de planilha| 16/08/2024 | concluido|
+
+![image](https://github.com/user-attachments/assets/2e8b05fa-3ea2-484e-9b93-7efa865f3c71)
+
 |01 | dd/mm/aaaa | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |02|  dd/mm/aaaa| em progresso |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |03| dd/mm/aaaa | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
