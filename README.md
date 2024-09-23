@@ -1,10 +1,8 @@
-# Gestão de Produção Industrial (GPI) - Noturno
+# Gestão de Produção Industrial (GPI) - CURSO: INFORMATICA 
 
-Template para os projetos do curso de graduação em Gestão da Produção Industrial, ensinando na utilização do repositório digital "GitHub". 
 
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos do grupo e de cada aluno.
-
-# Índice
+Este portífolio consiste em apresentar todo o conteúdo aprendendido e apresentado, tendo em vista sua constante mudança.
+Baseando-se na, Autonomia, Colaboração e Entrega de Resultados do estudante Índice.
 
 * [Objetivo fazer imersão no conteúdo-Vídeo aulas](#projeto-template)
 * [ Atividades Extra-Curriculares](#badges)
@@ -22,7 +20,7 @@ E o envolvimento de projetos acadêmicos como a Sprint do 1 semestre do projeto.
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Montagem do grupo no Teams | 16/08/2024 | concluido|
+|Montagem de planilha| 16/08/2024 | concluido|
 |01 | dd/mm/aaaa | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |02|  dd/mm/aaaa| em progresso |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |03| dd/mm/aaaa | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
