@@ -28,8 +28,9 @@ Sprint | Previsão | Status| Histórico|
 |Feira de Soluções|dd/mm/aaaa |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 
-# Micro Certificações
-![Uploading Captura de tela 2024-09-23 202436.png…]()
+# "Micro Certificado" MAIS LINDO DA VIDA
+![Captura de tela 2024-09-23 202436](https://github.com/user-attachments/assets/28651162-fba8-4d6a-8bd1-2e83028c3948)
+
 
 
 <p align="center">
@@ -37,8 +38,7 @@ Sprint | Previsão | Status| Histórico|
 </p>
 
 
-# Auter Ego
-![Equipe](https://cdn.sanity.io/images/yvyhc5zz/production/0b8a217b014594ae074652f8ce638465c20fc5cd-1920x1250.jpg?w=1888&fit=crop)
+
 
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
