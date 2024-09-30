@@ -12,6 +12,8 @@ Baseando-se na, Autonomia, Colaboração e Entrega de Resultados do estudante Í
 #
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
+![study](https://github.com/user-attachments/assets/de517b45-aaee-4fd9-a204-07c0f176d079)
+
 
 <h3 align="left">Connect with me!</h3>
 
