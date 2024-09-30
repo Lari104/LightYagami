@@ -21,9 +21,6 @@ Baseando-se na, Autonomia, Colaboração e Entrega de Resultados do estudante Í
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https:larissa.ezioauditore@gmail.com)
-[![LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BeL1NUP0BRYq7%2FbBvZDxtNA%3D%3D )
-[![Instagram](https:https://www.instagram.com/memescoisado/ )
 
 
 <h3 align="left">My Stack ~</h3>
