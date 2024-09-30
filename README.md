@@ -1,3 +1,8 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
 # Gestão de Produção Industrial (GPI) - CURSO: INFORMATICA 
 
 
@@ -7,7 +12,7 @@ Baseando-se na, Autonomia, Colaboração e Entrega de Resultados do estudante Í
 * [Objetivo fazer imersão no conteúdo-Vídeo aulas](#projeto-template)
 * [ Atividades Extra-Curriculares](#badges)
 * .[Apoio nas atividades em sala](#equipe)
-* ![Imagem do WhatsApp de 2024-09-19 à(s) 21 19 21_86656bbc](https://github.com/user-attachments/assets/43d01ce2-3095-4eb0-b5e6-8fdce34167d1)
+* ![      ](https://github.com/user-attachments/assets/43d01ce2-3095-4eb0-b5e6-8fdce34167d1)
 
 
 # Desenvolvimento em Laborátorio de Informática (API) 
