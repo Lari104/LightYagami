@@ -9,10 +9,19 @@
 Este portífolio consiste em apresentar todo o conteúdo aprendendido e apresentado, tendo em vista sua constante mudança.
 Baseando-se na, Autonomia, Colaboração e Entrega de Resultados do estudante Índice.
 
-* [Objetivo fazer imersão no conteúdo-Vídeo aulas](#projeto-template)
-* [ Atividades Extra-Curriculares](#badges)
-* .[Apoio nas atividades em sala](#equipe)
-* ![      ](https://github.com/user-attachments/assets/43d01ce2-3095-4eb0-b5e6-8fdce34167d1)
+#
+
+<img align="right" alt="" height="190px" src="./src/study.gif">
+
+<h3 align="left">Connect with me!</h3>
+
+[![E-mail](https:larissa.ezioauditore@gmail.com)
+[![LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BeL1NUP0BRYq7%2FbBvZDxtNA%3D%3D )
+[![Instagram](https:https://www.instagram.com/memescoisado/ )
+
+
+<h3 align="left">My Stack ~</h3>
+
 
 
 # Desenvolvimento em Laborátorio de Informática (API) 
