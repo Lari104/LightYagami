@@ -19,7 +19,8 @@ Baseando-se na, Autonomia, Colaboração e Entrega de Resultados do estudante Í
 ![study](https://github.com/user-attachments/assets/de517b45-aaee-4fd9-a204-07c0f176d079)
 
 
-<h3 align="left">Connect with me!</h3>
+<h3 align="left">Quem sou Eu!</h3>
+![Imagem do WhatsApp de 2024-09-19 à(s) 21 19 21_86656bbc](https://github.com/user-attachments/assets/1a45b44c-2616-457b-a120-6eedfbdbfb05)
 
 
 
