@@ -67,8 +67,8 @@ Sprint | Previsão | Status| Histórico|
 
 
 
-# "Micro Certificado" MAIS LINDO DA VIDA
-![Captura de tela 2024-09-23 202436](https://github.com/user-attachments/assets/28651162-fba8-4d6a-8bd1-2e83028c3948)
+
+
 
 
 
