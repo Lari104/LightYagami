@@ -10,6 +10,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lari104/LightYagami/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lari104/LightYagami /output/github-contribution-grid-snake.svg">
 </picture>
+
 Este portífolio consiste em apresentar todo o conteúdo aprendendido e apresentado, tendo em vista sua constante mudança.
 Baseando-se na, Autonomia, Colaboração e Entrega de Resultados do estudante Índice.
 
