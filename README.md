@@ -12,7 +12,7 @@
 </picture>
 
 Este portífolio consiste em apresentar todo o conteúdo aprendendido e apresentado, tendo em vista sua constante mudança.
-Baseando-se na, Autonomia, Colaboração e Entrega de Resultados do estudante Índice.
+Baseando-se na, Autonomia, Colaboração , Entrega de Resultados do estudante e Criatividade .
 
 #
 
@@ -24,7 +24,7 @@ Baseando-se na, Autonomia, Colaboração e Entrega de Resultados do estudante Í
 ![Imagem do WhatsApp de 2024-09-19 à(s) 21 19 21_86656bbc](https://github.com/user-attachments/assets/4baca0a1-0c88-4204-a59b-8e479409403d)
 
 
-<p align="center"> Eu me chamo Larissa Estevam Rosa❤️ . <br><br> Técnica em química apaixonada. Gosto de equilibrar minha carreira entre habilidades técnicas e gerenciais, então adquiri experiência liderando equipes, coordenando projetos, analisando e melhorando continuamente, integrando tudo isso com os fundamentos do desenvolvimento ágil..</p>&nbsp;
+<p align="center"> Eu me chamo Larissa Estevam Rosa❤️ . <br><br> 
 
 
 
