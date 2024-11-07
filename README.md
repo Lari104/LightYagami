@@ -28,7 +28,7 @@ Baseando-se na, Autonomia, Colaboração , Entrega de Resultados do estudante e 
 
 
 
-# Desenvolvimento em Laborátorio de Informática (API) 
+# Desenvolvimento em Laborátorio de Informática : Excel  
 
 Atividade 1 
 
@@ -39,6 +39,7 @@ Atividade 2
 
 ![2](https://github.com/user-attachments/assets/9b4afc2d-2814-4422-ad7c-0ac37c12853e)
 
+# Desenvolvimento em Laborátorio de Informática : Power BI  
 
 Atividade 3
 ![3](https://github.com/user-attachments/assets/b44eb6a5-3983-4ee0-9133-f8ccc5aa4506)
