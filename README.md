@@ -30,7 +30,11 @@ Baseando-se na, Autonomia, Colaboração , Entrega de Resultados do estudante e 
 
 # Desenvolvimento em Laborátorio de Informática : Excel  
 
-Atividade 1 
+Planilha 1 apresenta dados com taxa de retenção.
+Cálculo da Taxa de Retenção (coluna D):
+
+Para calcular a taxa de retenção na coluna "Percentual", foi usada  referência a valores específicos, como uma divisão entre valores de retenção e um total, multiplicado por 100 para obter a porcentagem. 
+=B2 / Total * 100
 
 ![384077643-48e67614-734a-41a2-aade-2fbd07654f24](https://github.com/user-attachments/assets/3489d806-7527-4834-bcae-62663884caba)
 
