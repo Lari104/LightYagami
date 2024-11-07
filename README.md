@@ -17,19 +17,6 @@ Baseando-se na, Autonomia, Colaboração , Entrega de Resultados do estudante e 
 
 #
 
-
-<h3 align="left">Quem sou Eu!</h3>
-
-#
-
-![Imagem do WhatsApp de 2024-09-19 à(s) 21 19 21_86656bbc](https://github.com/user-attachments/assets/4baca0a1-0c88-4204-a59b-8e479409403d)
-
-
-<p align="center"> Eu me chamo Larissa Estevam Rosa❤️ . <br><br> 
-
-
-
-
  
  &nbsp;
  &nbsp;
