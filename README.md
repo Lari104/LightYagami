@@ -1,4 +1,4 @@
-<div align="center">
+![5](https://github.com/user-attachments/assets/473db824-4c55-46a1-920f-eec9689f44d2)<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
@@ -53,8 +53,27 @@ Baseando-se na, Autonomia, Colaboração , Entrega de Resultados do estudante e 
 
 
 # Desenvolvimento em Laborátorio de Informática (API) 
-O objetivo desta sprint é discutir como os alunos se tornam agentes colaborativos do processo de ensino-aprendizagem, bem como se tornar um protagonista da sua educação, através de atividades extra- curriculares.
-E o envolvimento de projetos acadêmicos como a Sprint do 1 semestre do projeto.
+
+Atividade 1 
+
+![384077643-48e67614-734a-41a2-aade-2fbd07654f24](https://github.com/user-attachments/assets/3489d806-7527-4834-bcae-62663884caba)
+
+
+Atividade 2
+
+![2](https://github.com/user-attachments/assets/9b4afc2d-2814-4422-ad7c-0ac37c12853e)
+
+
+Atividade 3
+![3](https://github.com/user-attachments/assets/b44eb6a5-3983-4ee0-9133-f8ccc5aa4506)
+![4](https://github.com/user-attachments/assets/82812c05-fa3b-4e6f-93a1-1b304eef3bca)
+
+
+Atividade 4 
+![5](https://github.com/user-attachments/assets/5dd9605d-a947-4538-a9c1-3b09393c3d6d)
+![6](https://github.com/user-attachments/assets/77f53918-e7c6-4a6a-992a-7e67d7d1d8b5)
+![7](https://github.com/user-attachments/assets/56d54b8b-49b5-4987-8988-60d54545d6ad)
+
 
 
 Sprint | Previsão | Status| Histórico|
