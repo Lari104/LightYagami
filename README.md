@@ -4,7 +4,7 @@
   </a>
 </div>
 
- # NESTE PORTIFÓLIO VOCÊ VERÁ AS ATIVIDADES DA DISCPLINA DE INFORMÁTICA, DO CURSO DE GPI
+ # Neste Portifólio você verá as atividades da disciplina de informática , do curso de GPI
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lari104/LightYagami/output/github-contribution-grid-snake-dark.svg">
