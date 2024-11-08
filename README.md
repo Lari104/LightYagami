@@ -30,7 +30,15 @@ Baseando-se na, Autonomia, Colaboração , Entrega de Resultados do estudante e 
 
 # Desenvolvimento em Laborátorio de Informática : Excel  
 
-Planilha 1 apresenta dados com taxa de retenção.
+Uma planilha de taxa de retenção é uma ferramenta que permite tabular dados e acompanhar métricas de retenção. 
+A taxa de retenção é uma métrica que indica a capacidade de uma empresa manter seus clientes, ou seja, a porcentagem de clientes que continuam a fazer negócio com a marca.  
+A taxa de retenção é uma métrica vital para empresas, pois:
+-Fornece insights sobre a fidelidade e satisfação do cliente
+-Permite avaliar o desempenho da empresa
+-Identifica áreas de melhoria
+-Permite implementar estratégias para aumentar a retenção de clientes
+
+
 
 ![Captura de tela 2024-11-07 211611](https://github.com/user-attachments/assets/ca56d701-c081-4897-b6eb-1e52a30c86f0)
 
