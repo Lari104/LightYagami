@@ -32,7 +32,7 @@ Baseando-se na, Autonomia, Colaboração , Entrega de Resultados do estudante e 
 
 Planilha 1 apresenta dados com taxa de retenção.
 
-![Captura de tela 2024-11-07 211323](https://github.com/user-attachments/assets/aa25000f-e5bc-4122-a7e1-0568721a3db0)
+![Captura de tela 2024-11-07 211611](https://github.com/user-attachments/assets/ca56d701-c081-4897-b6eb-1e52a30c86f0)
 
 
 
