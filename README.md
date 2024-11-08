@@ -40,6 +40,9 @@ Planilha 1 apresenta dados com taxa de retenção.
 
 ![384077643-48e67614-734a-41a2-aade-2fbd07654f24](https://github.com/user-attachments/assets/3489d806-7527-4834-bcae-62663884caba)
 
+![Captura de tela 2024-11-07 212801](https://github.com/user-attachments/assets/69cb6fce-b981-46e2-9ca6-bc1cded58dff)
+
+
 
 Atividade 2
 
