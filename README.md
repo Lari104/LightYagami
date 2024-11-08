@@ -31,7 +31,8 @@ Baseando-se na, Autonomia, Colaboração , Entrega de Resultados do estudante e 
 # Desenvolvimento em Laborátorio de Informática : Excel  
 
 Planilha 1 apresenta dados com taxa de retenção.
-![Captura de tela 2024-11-07 210900](https://github.com/user-attachments/assets/3b1e1201-1b93-4345-8aac-473e3c1f85a5)
+
+![Captura de tela 2024-11-07 211323](https://github.com/user-attachments/assets/aa25000f-e5bc-4122-a7e1-0568721a3db0)
 
 
 
