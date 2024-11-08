@@ -50,9 +50,10 @@ Atividade 2
 
 
 
-# Desenvolvendo em Laborátorio: Power BI  
+# Desenvolvendo em Laborátorio:  Power BI , O qué ?
 
-Atividade 3
+O Power BI é uma ferramenta de Inteligência de Negócios (BI) da Microsoft que permite transformar dados em informações visualmente interativas e coerentes. Com o Power BI, é possível conectar-se a diversas fontes de dados, como planilhas do Excel, data warehouses ou dados da internet 
+
 ![3](https://github.com/user-attachments/assets/b44eb6a5-3983-4ee0-9133-f8ccc5aa4506)
 ![4](https://github.com/user-attachments/assets/82812c05-fa3b-4e6f-93a1-1b304eef3bca)
 
