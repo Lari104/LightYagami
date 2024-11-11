@@ -72,10 +72,10 @@ O Power BI é uma ferramenta de Inteligência de Negócios (BI) da Microsoft que
 
 ![3](https://github.com/user-attachments/assets/b44eb6a5-3983-4ee0-9133-f8ccc5aa4506) 
 
-# Parte 2 
+
 ![Captura de tela 2024-11-11 153514](https://github.com/user-attachments/assets/a0df04db-eedc-472f-8978-168b84451c3d)
 
-
+# Parte 2 
 ![4](https://github.com/user-attachments/assets/82812c05-fa3b-4e6f-93a1-1b304eef3bca)
 
 
