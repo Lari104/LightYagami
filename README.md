@@ -58,6 +58,9 @@ Atividade 2
 
 
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+
 # Desenvolvendo em Laborátorio:  Power BI , O qué ?
 
 O Power BI é uma ferramenta de Inteligência de Negócios (BI) da Microsoft que permite transformar dados em informações visualmente interativas e coerentes. Com o Power BI, é possível conectar-se a diversas fontes de dados, como planilhas do Excel, data warehouses ou dados da internet 
