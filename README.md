@@ -112,9 +112,6 @@ Sprint | Previsão | Status| Histórico|
 
 
 
-<p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
-</p>
 
 
 
