@@ -108,7 +108,8 @@ Sprint | Previsão | Status| Histórico|
 
 # TELA DE CLIENTE
 
-https://github.com/Lari104/LightYagami/blob/c611133e4bb2e6a4ccd22817661b5cb1e5a1ea93/clideo_editor_7a93f9268b8740e39de6329680279364.gif 
+![clideo_editor_7a93f9268b8740e39de6329680279364](https://github.com/user-attachments/assets/b022842f-133d-4289-9de4-f0ea3ef57dd9)
+
 
 
 
